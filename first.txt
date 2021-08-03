@@ -1,2 +1,5 @@
 hello world
+<<<<<<< HEAD
+=======
 notes
+>>>>>>> 6aa45eb96cf8cef7cc05c767298fb4563fdf75e6
